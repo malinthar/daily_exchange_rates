@@ -1,0 +1,6 @@
+apiKey = <API_KEY_FOR_https://api.apilayer.com/exchangerates_data>
+
+[[ballerina.auth.users]]
+username="user"
+password="password"
+scopes=["user"]
