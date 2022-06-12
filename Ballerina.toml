@@ -2,6 +2,3 @@
 org = "user"
 name = "exchange_rates"
 version = "0.1.0"
-
-[build-options]
-observabilityIncluded = false
