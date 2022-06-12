@@ -1,2 +1,2 @@
 # daily_exchange_rates
-API to get daily exchnage rates written using Ballerina
+Service to get daily exchange rates written using Ballerina
